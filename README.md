@@ -1,5 +1,5 @@
-**i-blur helper
-Usage
+#i-blur helper
+##Usage
 
 Require this helper
 
